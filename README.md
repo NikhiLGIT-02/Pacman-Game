@@ -99,7 +99,7 @@ python main.py
 
 ## Author
 
-**Nikhil Bhargav G**
+**Nikhil Bhargav G** **&**
 **Suchit Suraj Naik**
 
 GitHub: https://github.com/NikhilGIT-02
